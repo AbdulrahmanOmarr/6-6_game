@@ -1,0 +1,27 @@
+        body {
+            background-color: antiquewhite;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h2 {
+            color: #333;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 40px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: hsl(0, 90%, 64%);
+        }
+        #dice {
+            margin-top: 20px;
+        }
+        #img , #btn
+        {
+            display: inline-block;
+            vertical-align: middle;
+        }
